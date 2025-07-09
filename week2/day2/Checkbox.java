@@ -22,7 +22,7 @@ public class Checkbox {
 		
 		//click basic		
 				WebElement Basic= driver.findElement(By.xpath("//span[text()='Basic']"));
-		        Basic.click();
+		                Basic.click();
 		        
 		//click Ajax
 				WebElement Ajax= driver.findElement(By.xpath("//span[text()='Ajax']"));
